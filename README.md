@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/addyshine400/LeetCode----Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1539-kth-missing-positive-number](https://github.com/addyshine400/LeetCode----Solutions/tree/master/1539-kth-missing-positive-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/addyshine400/LeetCode----Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1539-kth-missing-positive-number](https://github.com/addyshine400/LeetCode----Solutions/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
