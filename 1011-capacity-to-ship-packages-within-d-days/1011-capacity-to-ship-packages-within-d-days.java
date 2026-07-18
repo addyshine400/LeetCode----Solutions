@@ -2,62 +2,46 @@ class Solution {
 
     public int shipWithinDays(int[] weights, int days) {
 
-        int low = findMax(weights);
-        int high = findSum(weights);
+        int low = 0;
+        int high = 0;
 
+        // Find search range
+        for (int weight : weights) {
+            low = Math.max(low, weight);
+            high += weight;
+        }
+
+        // Binary Search
         while (low < high) {
 
             int mid = low + (high - low) / 2;
 
-            if (canShip(weights, mid, days)) {
-                high = mid;
+            if (canShip(weights, days, mid)) {
+                high = mid;   // Try smaller capacity
             } else {
-                low = mid + 1;
+                low = mid + 1; // Increase capacity
             }
         }
 
         return low;
     }
 
-    private boolean canShip(int[] weights, int capacity, int days) {
+    // Check if capacity is enough
+    private boolean canShip(int[] weights, int days, int capacity) {
 
-        int currentWeight = 0;
         int requiredDays = 1;
+        int currentLoad = 0;
 
         for (int weight : weights) {
 
-            if (currentWeight + weight > capacity) {
+            if (currentLoad + weight > capacity) {
                 requiredDays++;
-                currentWeight = weight;
+                currentLoad = weight;
             } else {
-                currentWeight += weight;
+                currentLoad += weight;
             }
         }
 
         return requiredDays <= days;
-    }
-
-    private int findMax(int[] weights) {
-
-        int max = weights[0];
-
-        for (int weight : weights) {
-            if (weight > max) {
-                max = weight;
-            }
-        }
-
-        return max;
-    }
-
-    private int findSum(int[] weights) {
-
-        int sum = 0;
-
-        for (int weight : weights) {
-            sum += weight;
-        }
-
-        return sum;
     }
 }
