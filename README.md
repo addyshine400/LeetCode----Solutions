@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0202-happy-number](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0371-sum-of-two-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/addyshine400/LeetCode----Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
