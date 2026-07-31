@@ -60,10 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0015-3sum) |
+| [0242-valid-anagram](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0242-valid-anagram) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0344-reverse-string) |
 ## Heap (Priority Queue)
 |  |
