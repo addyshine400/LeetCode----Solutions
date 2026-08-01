@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0202-happy-number) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0242-valid-anagram) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
