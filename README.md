@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0371-sum-of-two-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/addyshine400/LeetCode----Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0053-maximum-subarray) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
