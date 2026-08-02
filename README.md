@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/addyshine400/LeetCode----Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/addyshine400/LeetCode----Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0371-sum-of-two-integers) |
+| [0877-stone-game](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0877-stone-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/addyshine400/LeetCode----Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0152-maximum-product-subarray) |
+| [0877-stone-game](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0877-stone-game) |
 ## Stack
 |  |
 | ------- |
@@ -166,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0014-longest-common-prefix) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
