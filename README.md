@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0443-string-compression) |
+| [0796-rotate-string](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0796-rotate-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -189,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0005-longest-palindromic-substring) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
