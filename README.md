@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0242-valid-anagram) |
 | [3731-find-missing-elements](https://github.com/addyshine400/LeetCode----Solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0443-string-compression) |
