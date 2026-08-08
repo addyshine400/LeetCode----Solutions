@@ -5,8 +5,14 @@ class Solution {
         }
         int rev = 0 ;
         while( x > rev) {
-            rev = rev * 10 + x % 10;
-            x /=10;
+            while (x > rev) {
+
+    int lastDigit = x % 10;  // get last digit
+
+    rev = rev * 10 + lastDigit;  // add digit to reverse
+
+    x = x / 10;  // remove last digit
+}
         }
 
         return x == rev ||  x == rev /10;
