@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0070-climbing-stairs) |
@@ -236,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
