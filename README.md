@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0074-search-a-2d-matrix) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0055-jump-game) |
 | [1903-largest-odd-number-in-string](https://github.com/addyshine400/LeetCode----Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0152-maximum-product-subarray) |
