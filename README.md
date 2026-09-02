@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0066-plus-one) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0231-power-of-two) |
