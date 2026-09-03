@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0503-next-greater-element-ii) |
+| [0525-contiguous-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0739-daily-temperatures) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/addyshine400/LeetCode----Solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -344,5 +346,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
