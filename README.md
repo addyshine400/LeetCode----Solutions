@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0877-stone-game) |
@@ -360,5 +361,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0525-contiguous-array) |
+| [0724-find-pivot-index](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
