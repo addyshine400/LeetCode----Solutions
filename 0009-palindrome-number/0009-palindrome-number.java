@@ -1,21 +1,16 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        if(x<0 || (x%10 == 0 && x!=0)){
-            return false ;
+        int n = Math.abs(x);
+        String str = String.valueOf(x);
+        return check(str,0,str.length()-1);
+    }
+    boolean check(String str,int l,int r){
+        if(l>=r){
+            return true;
         }
-        int rev = 0 ;
-        while( x > rev) {
-            while (x > rev) {
-
-    int lastDigit = x % 10;  // get last digit
-
-    rev = rev * 10 + lastDigit;  // add digit to reverse
-
-    x = x / 10;  // remove last digit
-}
+        if(str.charAt(l) != str.charAt(r)){
+            return false;
         }
-
-        return x == rev ||  x == rev /10;
-        
+        return  check(str,l+1,r-1);
     }
 }
