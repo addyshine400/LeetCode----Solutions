@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0735-asteroid-collision) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Recursion
 |  |
 | ------- |
