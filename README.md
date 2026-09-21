@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/addyshine400/LeetCode----Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/addyshine400/LeetCode----Solutions/tree/master/1539-kth-missing-positive-number) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/addyshine400/LeetCode----Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3731-find-missing-elements](https://github.com/addyshine400/LeetCode----Solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/addyshine400/LeetCode----Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3731-find-missing-elements](https://github.com/addyshine400/LeetCode----Solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/addyshine400/LeetCode----Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Recursion
 |  |
 | ------- |
