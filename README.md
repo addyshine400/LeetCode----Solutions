@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/addyshine400/LeetCode----Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/addyshine400/LeetCode----Solutions/tree/master/1544-make-the-string-great) |
 | [1903-largest-odd-number-in-string](https://github.com/addyshine400/LeetCode----Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Heap (Priority Queue)
 |  |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/addyshine400/LeetCode----Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/addyshine400/LeetCode----Solutions/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |
