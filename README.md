@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/addyshine400/LeetCode----Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/addyshine400/LeetCode----Solutions/tree/master/1539-kth-missing-positive-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/addyshine400/LeetCode----Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3731-find-missing-elements](https://github.com/addyshine400/LeetCode----Solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/addyshine400/LeetCode----Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3731-find-missing-elements](https://github.com/addyshine400/LeetCode----Solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Matrix
 |  |
 | ------- |
