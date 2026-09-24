@@ -1,59 +1,37 @@
+import java.util.Stack;
+
 class Solution {
     public boolean backspaceCompare(String s, String t) {
 
-        int i = s.length() - 1;
-        int j = t.length() - 1;
+        Stack<Character> st1 = new Stack<>();
+        Stack<Character> st2 = new Stack<>();
 
-        int skipS = 0;
-        int skipT = 0;
+        // Process s
+        for (int i = 0; i < s.length(); i++) {
+            char ch = s.charAt(i);
 
-        while (i >= 0 || j >= 0) {
-
-            // Find next valid character in s
-            while (i >= 0) {
-                if (s.charAt(i) == '#') {
-                    skipS++;
-                    i--;
-                } else if (skipS > 0) {
-                    skipS--;
-                    i--;
-                } else {
-                    break;
+            if (ch == '#') {
+                if (!st1.isEmpty()) {
+                    st1.pop();
                 }
+            } else {
+                st1.push(ch);
             }
-
-            // Find next valid character in t
-            while (j >= 0) {
-                if (t.charAt(j) == '#') {
-                    skipT++;
-                    j--;
-                } else if (skipT > 0) {
-                    skipT--;
-                    j--;
-                } else {
-                    break;
-                }
-            }
-
-            // One has a character, other doesn't
-            if (i >= 0 && j < 0) {
-                return false;
-            }
-
-            if (i < 0 && j >= 0) {
-                return false;
-            }
-
-            // Compare valid characters
-            if (i >= 0 && j >= 0 &&
-                s.charAt(i) != t.charAt(j)) {
-                return false;
-            }
-
-            i--;
-            j--;
         }
 
-        return true;
+        // Process t
+        for (int i = 0; i < t.length(); i++) {
+            char ch = t.charAt(i);
+
+            if (ch == '#') {
+                if (!st2.isEmpty()) {
+                    st2.pop();
+                }
+            } else {
+                st2.push(ch);
+            }
+        }
+
+        return st1.equals(st2);
     }
 }
