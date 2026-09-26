@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0647-palindromic-substrings) |
 | [0844-backspace-string-compare](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Matrix
 |  |
