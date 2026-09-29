@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0055-jump-game) |
+| [0678-valid-parenthesis-string](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1903-largest-odd-number-in-string](https://github.com/addyshine400/LeetCode----Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0844-backspace-string-compare) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0877-stone-game) |
 ## Stack
 |  |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0844-backspace-string-compare) |
@@ -423,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Simulation
 |  |
 | ------- |
