@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/addyshine400/LeetCode----Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/addyshine400/LeetCode----Solutions/tree/master/1051-height-checker) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/addyshine400/LeetCode----Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/addyshine400/LeetCode----Solutions/tree/master/1539-kth-missing-positive-number) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/addyshine400/LeetCode----Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/addyshine400/LeetCode----Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/addyshine400/LeetCode----Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/addyshine400/LeetCode----Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Sliding Window
 |  |
