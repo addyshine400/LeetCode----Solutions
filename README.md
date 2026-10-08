@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0496-next-greater-element-i) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0541-reverse-string-ii) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/addyshine400/LeetCode----Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/addyshine400/LeetCode----Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
