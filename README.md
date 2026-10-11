@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0205-isomorphic-strings) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0206-reverse-linked-list) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0707-design-linked-list](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0707-design-linked-list) |
@@ -508,4 +511,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0881-boats-to-save-people) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
