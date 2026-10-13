@@ -1,19 +1,19 @@
 class Solution {
     public String longestCommonPrefix(String[] strs) {
-        if(strs==null || strs.length == 0){   // to check array has no strings or null
-            return "" ;
-        }
-        for(int i =0;i<strs[0].length();i++){ //taking  first string as refrence
-             char ch = strs[0].charAt(i);
-             for(int j =1; j< strs.length;j++){// compare this character with every other string
-                if(i==strs[j].length() || strs[j].charAt(i)!=ch){ //to check whether the first string got ended "flownindex "= 0,1,2,3 if we enter 4 it will show error also to check if the character is diff
-                    return strs[0].substring(0,i);
-                }
-             }
-        }
-
-
-          return strs[0];
+             int minLen = strs[0].length();
         
+        for (int i = 1; i < strs.length; i++) {
+            if (strs[i].length() < minLen) {
+                minLen = strs[i].length();
+            }
+        }
+        for (int i = 0; i < minLen; i++) {
+            for (int j = 1; j < strs.length; j++) {
+                if (strs[0].charAt(i) != strs[j].charAt(i)) {
+                    return strs[0].substring(0, i);
+                }
+            }
+        }
+        return strs[0].substring(0, minLen);
     }
 }
