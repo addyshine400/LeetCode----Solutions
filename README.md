@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0503-next-greater-element-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0541-reverse-string-ii) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0875-koko-eating-bananas) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0371-sum-of-two-integers) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/addyshine400/LeetCode----Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -507,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Merge Sort
 |  |
 | ------- |
@@ -523,4 +528,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0146-lru-cache) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
