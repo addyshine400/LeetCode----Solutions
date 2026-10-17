@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0739-daily-temperatures) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0525-contiguous-array) |
+| [0705-design-hashset](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0705-design-hashset) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/addyshine400/LeetCode----Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0328-odd-even-linked-list) |
+| [0705-design-hashset](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/addyshine400/LeetCode----Solutions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0705-design-hashset](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0707-design-linked-list) |
 ## Queue
 |  |
@@ -546,4 +550,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0229-majority-element-ii) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
