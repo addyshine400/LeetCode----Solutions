@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0877-stone-game) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/addyshine400/LeetCode----Solutions/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/addyshine400/LeetCode----Solutions/tree/master/1929-concatenation-of-array) |
